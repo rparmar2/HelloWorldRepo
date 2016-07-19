@@ -11,6 +11,7 @@ public class PrintRandomNumbers {
 			System.out.println("testing3 "+ i);
 			System.out.println("testing4 "+ i);
 			System.out.println("testing"+ i);
+			System.out.println("testing67"+ i);
 		}
 	}
 
