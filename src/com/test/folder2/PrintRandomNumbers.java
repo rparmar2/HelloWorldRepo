@@ -8,7 +8,8 @@ public class PrintRandomNumbers {
 		
 		for(int i =0 ;i < 2 ; i++){
 			System.out.println("testing "+ i);
-			System.out.println("testing2 "+ i);
+			System.out.println("testing3 "+ i);
+			System.out.println("testing4 "+ i);
 		}
 	}
 
